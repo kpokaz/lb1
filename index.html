@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LabWork1</title>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <h1>Goods</h1> 
+        <b><p>Categories</p></b>
+        <div>
+            <form action="" method="get" id="category-form" class="category-form" name="category-form">
+                <ul>
+                    <li>
+                        <div>
+                            <input type="checkbox" id="videocard" name="category-option" value="Videocard"/>
+                            <label for="videocard">Videocard</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="cpu" name="category-option" value="CPU"/>
+                            <label for="cpu">CPU</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="display" name="category-option" value="Display"/>
+                            <label for="display">Display</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="memory" name="category-option" value="Memory"/>
+                            <label for="memory">Memory</label>
+                        </div>
+                    </li>
+                </ul>
+                <div>
+                    <button type="submit" id="category-button" class="category-button" name="category-button">Search</button>
+                </div>
+            </form>
+        </div>
+
+        <b><p>Vendors</p></b>
+        <div>
+            <form action="" method="get" id="vendors-form" class="vendors-form" name="vendors-form">
+                <ul>
+                    <li>
+                        <div>
+                            <input type="checkbox" id="lg" name="vendor-option" value="LG" />
+                            <label for="lg">LG</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="asus" name="vendor-option" value="ASUS"/>
+                            <label for="asus">ASUS</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="samsung" name="vendor-option" value="Samsung"/>
+                            <label for="samsung">Samsung</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="intel" name="vendor-option" value="Intel"/>
+                            <label for="intel">Intel</label>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <input type="checkbox" id="amd" name="vendor-option" value="AMD"/>
+                            <label for="amd">AMD</label>
+                        </div>
+                    </li>
+                </ul>
+                <div>
+                    <button type="submit" id="vendors-button" class="vendors-button">Search</button>
+                </div>
+            </form>
+        </div>    
+        <b><p>Price range</p></b>
+
+        
+        <div class="price-range">
+            <label for="min-price">Минимальная цена: <span id="min-price-value">0</span></label>
+            <input type="range" id="min-price" min="0" max="5000" step="10" value="0">
+        
+            <label for="max-price">Максимальная цена: <span id="max-price-value">5000</span></label>
+            <input type="range" id="max-price" min="0" max="5000" step="10" value="5000">
+        </div>
+        
+        <button id="search-button">Search</button>
+
+
+        <div><button id="button" class="button">All goods</button></div>
+        <div id="output"></div>
+        <script src="script.js"></script>
+    </body>
+</html>

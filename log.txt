@@ -1,0 +1,227 @@
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: Array
+(
+    [time] => 2025-04-25T09:27:08.690Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:28:48.194Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:28:51.275Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:29:03.890Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:29:42.751Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:32:04.391Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:32:08.373Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 
+    [longitude] => 
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:32:44.612Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 55.7558
+    [longitude] => 37.6173
+    [action] => manual_test
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:32:50.810Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 55.7558
+    [longitude] => 37.6173
+    [action] => manual_test
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:33:05.724Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 55.7558
+    [longitude] => 37.6173
+    [action] => manual_test
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:33:24.880Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 55.7558
+    [longitude] => 37.6173
+    [action] => manual_test
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:35:20.153Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
+    [latitude] => 49.404099562436
+    [longitude] => 24.304778397829
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:36:00.020Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
+    [latitude] => 49.404101292832
+    [longitude] => 24.304498932302
+    [action] => login_success
+)
+
+Received data: Array
+(
+    [time] => 2025-04-25T09:36:02.816Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
+    [latitude] => 49.404101292832
+    [longitude] => 24.304498932302
+    [action] => login_success
+)
+
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: 
+Received data: Array
+(
+    [time] => 2025-05-07T18:07:15.705Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 49.4041231356
+    [longitude] => 24.304866117444
+    [action] => login_success
+    [username] => Kostya
+)
+
+Received data: Array
+(
+    [time] => 2025-05-07T18:08:52.482Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 49.404086534614
+    [longitude] => 24.30481949866
+    [action] => login_success
+    [username] => Kostya
+)
+
+Received data: Array
+(
+    [time] => 2025-05-07T18:14:09.502Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 49.404105311122
+    [longitude] => 24.304727359722
+    [action] => login_success
+    [username] => Kostya
+)
+
+Received data: Array
+(
+    [time] => 2025-05-07T18:20:37.880Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 49.404100505627
+    [longitude] => 24.304716634647
+    [action] => login_success
+    [username] => Kostya
+)
+
+Received data: Array
+(
+    [time] => 2025-05-07T18:21:50.633Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 49.404108326628
+    [longitude] => 24.304760289329
+    [action] => login_success
+    [username] => Kostya
+)
+
+Received data: Array
+(
+    [time] => 2025-05-09T09:21:56.081Z
+    [userAgent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [latitude] => 49.404135593043
+    [longitude] => 24.304736748097
+    [action] => login_success
+    [username] => Kostya
+)
+

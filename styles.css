@@ -1,0 +1,10 @@
+.price-range {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+input[type="range"] {
+    width: 100%;
+}

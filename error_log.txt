@@ -1,0 +1,2 @@
+SQL Error: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2025-05-07T18:14:09.502Z' for column 'time' at row 1
+SQL Error: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2025-05-07T18:20:37.880Z' for column 'time' at row 1
